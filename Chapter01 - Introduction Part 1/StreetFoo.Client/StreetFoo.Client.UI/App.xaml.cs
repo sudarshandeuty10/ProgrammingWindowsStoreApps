@@ -15,8 +15,8 @@ using Windows.UI.Xaml.Input;
 using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
 
-// The Blank Application template is documented at http://go.microsoft.com/fwlink/?LinkId=234227
-
+// The Blank Application template is documented at http://go.microsoft.com/fwlink/?LinkId=234227hs 
+//Types that support navigation events as initiated by the page and frame
 namespace StreetFoo.Client.UI
 {
     /// <summary>
